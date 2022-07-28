@@ -60,7 +60,6 @@ See the [SerenityOS build instructions](https://github.com/SerenityOS/serenity/b
 
 ## Get in touch and participate!
 
-Join our Discord server: [SerenityOS Discord](https://discord.gg/serenityos)
 
 Before opening an issue, please see the [issue policy](https://github.com/SerenityOS/serenity/blob/master/CONTRIBUTING.md#issue-policy).
 
