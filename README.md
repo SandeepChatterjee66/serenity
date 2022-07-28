@@ -48,7 +48,8 @@ Additionally, there are [over two hundred ports of popular open-source software]
 
 ## How do I read the documentation?
 
-Man pages are available online at [man.serenityos.org](https://man.serenityos.org). These pages are generated from the Markdown source files in [`Base/usr/share/man`](https://github.com/SerenityOS/serenity/tree/master/Base/usr/share/man) and updated automatically.
+
+Manual pages are available from [man.serenityos.org](https://man.serenityos.org). These pages are generated from the Markdown source files in [`Base/usr/share/man`](https://github.com/SerenityOS/serenity/tree/master/Base/usr/share/man) and updated automatically.
 
 When running SerenityOS you can use `man` for the terminal interface, or `help` for the GUI.
 
